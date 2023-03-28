@@ -2,7 +2,7 @@
 Businees Case: Insights about the E-commerce website shipping products 
 Practice Practice Practice, It is the ultimate advise for every starter in any field, The data is on the top of any field which needs everyday look.
 
-That's why I would start with project follows project, I choose to do in parts method, to break into smaller parts is the second advise for all learners.
+ I would start with project follows project, I choose to do in parts method, to break into smaller parts is the second advise for all learners.
 
 this is first part of many to work on the data set, to have a better view on what would you expect when you are working on data, how many days, how many parts data could be necessary for full analysis and prediction if needed.
 
